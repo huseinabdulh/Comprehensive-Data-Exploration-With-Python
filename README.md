@@ -10,13 +10,9 @@ Dalam penyusunan dataset ini menggunakan dataset yang didapatkan dari kaggle [Tr
 ## Data Describe
 ![image](https://user-images.githubusercontent.com/49096980/202975991-7dba20ba-339d-4d57-bf3b-ce35f2f801bf.png)
 
-
-
-## Paper Referensi
-None
+## Result Of Data
+![WhatsApp Image 2022-11-21 at 13 05 13](https://user-images.githubusercontent.com/49096980/202977241-9d48e36e-b0e7-4795-be63-8e2e1cc17b7a.jpg)
 
 
 ## Contributor
-Husein Abdul Hamid - 201810370311202
-
-Yusuf Bayu Perdana - 201810370311236
+Husein Abdul Hamid 
